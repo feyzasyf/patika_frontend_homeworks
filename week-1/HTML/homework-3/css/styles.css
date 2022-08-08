@@ -1,0 +1,32 @@
+ */
+body{
+    background-color: rgb(234, 207, 211);
+}
+
+.recipe-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+    padding: 30px
+  
+}
+
+.info{
+    display: flex;
+    justify-content:flex-start;
+   
+}
+.info p{
+    padding-right: 30px;
+}
+.recipe-container p> span{
+    text-decoration:underline;
+    color: rgb(142, 46, 62);
+}
+.recipe-img{
+    border-radius: 8px;
+}
+li{
+    padding-bottom: 10px;
+}
