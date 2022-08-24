@@ -9,3 +9,4 @@ This project is done as part of the Javascript course by [Patika.dev](https://ww
 
 Starting files are [here](https://drive.google.com/drive/folders/1SCIJiYWLpMh-LX_yG2PfB8QXXREa9hqx)
 
+![Screenshot (69)](https://user-images.githubusercontent.com/16446646/186415980-8ad623af-8cc1-4d93-96dc-7d9ceebd99a9.png)
