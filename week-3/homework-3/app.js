@@ -57,7 +57,7 @@ const menuList = (filterCategory) => {
   let filteredItems = menu;
   if (filterCategory != "All") {
     filteredItems = menu.filter((item) => item.category == filterCategory);
-    console.log(filteredItems);
+   
   }
 
   filteredItems.map((item) => {
