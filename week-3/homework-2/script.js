@@ -24,7 +24,7 @@ tasks.forEach((element) => {
 
 
 //in order to access the elements directly with "this" keyword inside the function scope,
-//I had to add the classes with JQuery
+//I had to add the events with JQuery
 
 // adding eventListener to delete buttons
 $("#list li button").click(deleteTask);
